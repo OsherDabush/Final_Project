@@ -1,0 +1,11 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../ImageProcessing_IP.srcs/sources_1/new/AveragePixels.vhd" \
+"../../../../ImageProcessing_IP.srcs/sources_1/new/FIFO.vhd" \
+"../../../../ImageProcessing_IP.srcs/sources_1/new/ForegroundDetector.vhd" \
+"../../../../ImageProcessing_IP.srcs/sources_1/new/ImageProcess_TOP.vhd" \
+"../../../../ImageProcessing_IP.srcs/sources_1/new/RGB2GRAY.vhd" \
+"../../../../ImageProcessing_IP.srcs/sim_1/new/ImageProcess_TOP_TB.vhd" \
+
+# Do not sort compile order
+nosort

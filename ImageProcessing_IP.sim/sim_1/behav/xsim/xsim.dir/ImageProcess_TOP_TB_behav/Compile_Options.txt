@@ -1,0 +1,1 @@
+-wto "6936b9ac22d443188ec6e3ec5fc69195" --incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "secureip" --snapshot "ImageProcess_TOP_TB_behav" "xil_defaultlib.ImageProcess_TOP_TB" -log "elaborate.log" 

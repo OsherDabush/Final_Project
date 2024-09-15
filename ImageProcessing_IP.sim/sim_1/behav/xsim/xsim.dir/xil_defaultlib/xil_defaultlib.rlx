@@ -1,0 +1,10 @@
+0.7
+2020.1
+May 27 2020
+20:09:33
+C:/Users/osher/Vivado2020.1_Project/ImageProcessing_IP/ImageProcessing_IP.srcs/sim_1/new/ImageProcess_TOP_TB.vhd,1724142155,vhdl,,,,imageprocess_top_tb,,,,,,,,
+C:/Users/osher/Vivado2020.1_Project/ImageProcessing_IP/ImageProcessing_IP.srcs/sources_1/new/AveragePixels.vhd,1724140724,vhdl,,,,averagepixels,,,,,,,,
+C:/Users/osher/Vivado2020.1_Project/ImageProcessing_IP/ImageProcessing_IP.srcs/sources_1/new/FIFO.vhd,1724139647,vhdl,,,,fifo,,,,,,,,
+C:/Users/osher/Vivado2020.1_Project/ImageProcessing_IP/ImageProcessing_IP.srcs/sources_1/new/ForegroundDetector.vhd,1724142135,vhdl,,,,foregrounddetector,,,,,,,,
+C:/Users/osher/Vivado2020.1_Project/ImageProcessing_IP/ImageProcessing_IP.srcs/sources_1/new/ImageProcess_TOP.vhd,1724140833,vhdl,,,,imageprocess_top,,,,,,,,
+C:/Users/osher/Vivado2020.1_Project/ImageProcessing_IP/ImageProcessing_IP.srcs/sources_1/new/RGB2GRAY.vhd,1724139656,vhdl,,,,rgb2gray,,,,,,,,
